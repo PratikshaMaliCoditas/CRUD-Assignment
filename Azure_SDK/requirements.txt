@@ -1,7 +1,0 @@
-azure-mgmt-resource
-azure-mgmt-rdbms
-azure-identity
-mysql
-mysql-connector
-azure.mgmt.sql
-azure.mgmt.sql.models
